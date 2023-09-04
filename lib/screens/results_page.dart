@@ -66,6 +66,5 @@ class ResultsPage extends StatelessWidget {
         ],
       ),
     );
-    ;
   }
 }
